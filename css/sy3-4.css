@@ -1,0 +1,18 @@
+/* CSS Document */
+table{
+	width: 500px;
+	border: 0px;
+	border-collapse: collapse;
+}
+thead{
+	background: #0af;
+}
+.color1{
+	background: #6cc;
+}
+.cplor2{
+	background: wheat;
+}
+td{
+	text-align: center;
+}

@@ -1,0 +1,106 @@
+/* CSS Document */
+*{
+	padding: 0px;
+	margin: 0px;
+	line-height: 20px;
+}
+body{
+	height: 100%;
+	background-color: #f3f1e9;
+	position: relative;
+}
+img{
+	border: 0px;
+}
+#wrapper{
+	padding: 0px 0px 5px 0px;
+}
+#content_inside{ 
+	width: 1000px;
+	margin: 0 auto;
+	overflow: hidden;
+}
+#main_block{
+	font-family: Arial,Helvetica,sans-serif;
+	font-size: 12px;
+	color: #46446;
+	overflow: hidden;
+	float: left;
+	width: 752px;
+}
+.pad20{
+	padding: 0px 0px 20px 0px;
+}
+#item{
+	padding: 13px 0px 0px 5px;
+	float: left;
+}
+#item h4{
+	font-family: Arial,Helvetica,sans-serif;
+	font-size: 24px;
+	color: #242424;
+	font-weight: normal;
+}
+.big_view{
+	width: 478px;
+	padding: 20px 0px 12px 0px;
+	vertical-align: middle;
+	border: 1px solid #D6D3C7;
+	background-color: #FFFFFF;
+	position: relative;
+	text-align: center;
+}
+.big_view span{
+	font-size: 30px;
+	color: #E9410E;
+	display: block;
+	position: absolute;
+	bottom: 10px;
+	left: 25px;
+}
+.scroll{
+	width: 478px;
+	border: 1px solid #D6D3C7;
+	background-color: #FFFFFF;
+	padding: 6PX 0PX;
+	text-align: center;
+	margin: 5px 0px 0px 0px;
+}
+.scroll a{
+	margin: 0px 2px;
+}
+.description{
+	width: 220px;
+	float: left;
+	padding: 55px 0px 0px 25px;
+}
+.description p{
+	padding-bottom: 15px;
+}
+.view{
+	display: block;
+	float: left;
+	line-height: 18px;
+	margin: 3px 3px 0px 0px;
+	width: 41px;
+	text-align: center;
+	background-image: url("../images/04.jpg");
+	background-position: top left;
+	background-repeat: no-repeat;
+	color: #fff;
+	text-decoration: none;
+}
+.buy{
+	display: block;
+	float: left;
+	line-height: 18px;
+	margin: 3px 3px 0px 0px;
+	width: 92px;
+	text-align: center;
+	background-image: url("../images/VCG211258128067.jpg");
+	background-position: top left;
+	background-repeat: no-repeat;
+	color: #CAFF34;
+	text-decoration: none;
+}
+

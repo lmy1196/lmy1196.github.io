@@ -1,0 +1,26 @@
+/* CSS Document */
+body{
+	font-size: 15px;
+	height: 100%;
+	text-indent: 30px;   /*首行缩进*/
+}
+img.right{
+	border: 1px;
+	float: right;
+	padding: 0px 0px 0px 30px;
+}
+.main{
+	background: wheat;
+}
+.h{
+	text-align: left;
+	color: black;
+}
+.box{
+	padding: 10px 0px 10px 0px;
+	margin: 5px 10px 5px 0px;
+	clear: both;
+}
+
+
+

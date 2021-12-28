@@ -1,0 +1,44 @@
+/* CSS Document */
+.login {
+	margin:0 auto;
+	width:280px;
+	padding:14px;
+	border: dashed 2px #b7ddf2;
+	background:#ebf4fb;
+}
+.login * {
+	margin:0;
+	padding:0;
+	font-family:"宋体";
+	font-size:12px;
+	line-height:1.5em;
+}
+.login h2 {
+	text-align:center;
+	font-size:18px;
+	font-weight:bold;
+	margin-bottom:10px;
+	padding-bottom:5px;
+	border-bottom:solid 1px #b7ddf2;
+}
+.login .content {
+	padding:5px;
+}
+.login .frm_cont {
+	margin-bottom:8px;
+}
+.login .username input, .login .password input {
+	width:180px;
+	height:18px;
+	padding:2px 0px 2px 18px;
+	border:solid 1px #aacfe4;
+}
+.login .username input {
+	background:#FFF url("../images/sy3-5-1.png")no-repeat left center;
+}
+.login .password input {
+	background:#FFF url("../images/sy3-5-2.png")no-repeat left center;
+}
+.login .btns {
+	text-align:center;
+}

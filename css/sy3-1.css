@@ -1,0 +1,18 @@
+/* CSS Document */
+.main{
+	background: white;
+	margin: auto;
+}
+.h2{
+	color: red;
+	text-align: center;
+	}
+.h3{
+	color: green;
+	text-align: left;
+}
+div{
+	line-height: 15px;
+	text-indent: 30px;
+}
+

@@ -1,0 +1,34 @@
+/* CSS Document */
+.test ul{
+	list-style: none;
+}
+.test li{
+	float: left;
+	width: 100px;
+	background: #CCC;
+	margin-left: 3px;
+	line-height: 30px;
+}
+.test{
+	width: 800px;
+}
+.test a:link{
+	color: #666;
+	background: url("../images/sy3-3.jpg")#CCC no-repeat 0px 0px;
+	text-decoration: none;
+}
+.test a:visited{
+	color: #666;
+	text-decoration: underline;
+}
+.test a:hover{
+	color: #FFF;
+	font-weight: bold;
+	text-decoration: none;
+	background: url("../images/sy3-3.jpg")#F00 no-repeat 0px 0px;
+}
+.test a{
+	display: block;
+	text-align: center;
+	height: 30px;
+}
